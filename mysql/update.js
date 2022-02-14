@@ -1,6 +1,6 @@
 const db = require('../config/db');
 
-let updateQuery = `UPDATE todo SET description = ? WHERE id = ?`;
+let updateQuery = `UPDATE user SET petId =?, quantity =?, status=?, completed=? WHERE id = ?`;
 let data = ['Megan', 2];
 
 db.query(updateQuery, data, function (err, updated) {

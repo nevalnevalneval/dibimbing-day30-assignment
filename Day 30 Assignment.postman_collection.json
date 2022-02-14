@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "9f40a63e-0806-4720-937d-7dc609d07bf1",
+		"name": "Day 30 Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
